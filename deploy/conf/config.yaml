@@ -1,0 +1,6 @@
+Port: 8088
+UseGin: true
+GinMode: "release"
+GinDebug: false
+GinCacheNoWrite: false
+EnableDebugLog: true
